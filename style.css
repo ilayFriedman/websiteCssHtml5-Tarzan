@@ -44,7 +44,7 @@ a:hover {
 
 
 
-#about{
+section{
 
 	font-family: Calibri;
 	font-size: 20px;
@@ -52,30 +52,6 @@ a:hover {
 	
 }
 
-#photos{
-	font-family: Calibri;
-	font-size: 20px;
-	color: white;
-	
-	
-}
-
-#playlist{
-	font-family: Calibri;
-	font-size: 20px;
-	color: white;
-
-	
-}
-
-
-#like{
-	font-family: Calibri;
-	font-size: 20px;
-	color: white;
-
-	
-}
 
 #opac1 {
 	text-align:center;
@@ -133,29 +109,15 @@ a:hover {
 	float: left;
 	
   }
-
+  .qaTd{
+	border-style:ridge; 
+	border-color: black;
+  }
   #Movietd:hover {
 	background: #608000;
 	 filter: blur(1px);
 	 padding: 5px;
 	
 	}
-  
-/*  @media only screen and (max-width: 700px) {
-	.responsive {
-	  width: 49.99999%;
-	  margin: 6px 0;
-	}
-  }
-  
-  @media only screen and (max-width: 500px) {
-	.responsive {
-	  width: 100%;
-	}
-  }
-  
-  .clearfix:after {
-	content: "";
-	display: table;
-	clear: both;
-  }*/
+
+
