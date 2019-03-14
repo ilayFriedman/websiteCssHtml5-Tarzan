@@ -27,7 +27,7 @@ a:hover {
 
 .thumbnail-grid figure {
     position: relative;
-	min-width: 200px;
+	min-width: 100%;
 	/*text-align: center;*/
 	vertical-align: bottom;
     margin: 5px;
